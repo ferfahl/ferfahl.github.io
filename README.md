@@ -9,7 +9,8 @@ Right now I'm learning how to code in C with the projects of 42SP, you can check
 ### 42 São Paulo
 #### My projects from 42SP - repositories
 
-[![Libft](https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/libft.png?raw=true)](https://github.com/ferfahl/42SP_libft) [![Get next line](https://user-images.githubusercontent.com/102756887/201732297-6fbea9f5-cccc-4277-85bc-e768f9b09136.png)](https://github.com/ferfahl/42SP_get_next_line) [![ft_printf](https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft-printf.png?raw=true)](https://github.com/ferfahl/42SP_ft_printf) [![born 2 be root](https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/born2beroot.png?raw=true)](https://github.com/ferfahl/42SP_Born2beRoot) [![so long](https://user-images.githubusercontent.com/102756887/201732548-c7527f21-72c4-423a-9864-598e9f70ebf5.png)](https://github.com/ferfahl/42SP_so_long)
+[<img height="64" width="64" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/LIBFT-01.png?raw=true" />](https://github.com/ferfahl/42SP_libft) [<img height="64" width="64" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/GNL-02.png?raw=true" />](https://github.com/ferfahl/42SP_get_next_line) [<img height="64" width="64" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/PRINTF-01.png?raw=true" />](https://github.com/ferfahl/42SP_ft_printf) [<img height="64" width="64" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/BORN2BEROOT-02.png?raw=true" />](https://github.com/ferfahl/42SP_Born2beRoot) [<img height="64" width="64" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/SO_LONG-02.png?raw=true" />](https://github.com/ferfahl/42SP_so_long)
+
 
 #### Currently working on
 
