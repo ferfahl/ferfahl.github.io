@@ -5,5 +5,5 @@ Hi, my name is Fernanda, I'm a cadet @42SP, a computer engeneering school focuse
 Right now I'm learning how to code in C with the projects of 42SP, you can find some of them in my repositories.
 
 
-[![image](https://user-images.githubusercontent.com/102756887/201715881-9ffec3b5-b4d1-4bac-9c06-d0ab2a466c7a.png))](https://github.com/ferfahl/42SP_libft)
+[![image](https://user-images.githubusercontent.com/102756887/201715881-9ffec3b5-b4d1-4bac-9c06-d0ab2a466c7a.png)](https://github.com/ferfahl/42SP_libft)
 
