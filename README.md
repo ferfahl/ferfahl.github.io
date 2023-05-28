@@ -25,17 +25,17 @@ Philosophers is a project of the École 42!
 
 #### Other future 42's projects (not started yet)
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/netpractice_not.png?raw=true" />] [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/cub3d_not.png?raw=true" />]
+<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/netpractice_not.png?raw=true" /> <img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/cub3d_not.png?raw=true" />
 
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_three_not.png?raw=true" />]
+<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_three_not.png?raw=true" />
 
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/cpp_not.png?raw=true" />] [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/inception_not.png?raw=true" />] ([<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/webserv_not.png?raw=true" />] or [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft_irc_not.png?raw=true" />]) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft_transcendence_not.png?raw=true" />]
+<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/cpp_not.png?raw=true" /> <img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/inception_not.png?raw=true" /> (<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/webserv_not.png?raw=true" /> or <img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft_irc_not.png?raw=true" />) <img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft_transcendence_not.png?raw=true" />
 
 ##### Main goal is to achieve:
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/common_core_not.png?raw=true" />]
+<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/common_core_not.png?raw=true" />
 
 ##### If you want to contact me, try one of the bellow:
 [<img height="40" width="40" src="https://i0.wp.com/solistica.com/wp-content/uploads/2019/10/linkedin.png" />](https://www.linkedin.com/in/fernanda-fahl/) [<img height="40" width="40" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/mail.png?raw=true"/>](mailto:fe.alves.fahl@gmail.com?Subject=Contact%20me%21) [<img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>](https://github.com/ferfahl)
