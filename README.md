@@ -9,11 +9,11 @@ Right now I'm learning how to code in C with the projects of 42SP, you can check
 ### 42 São Paulo
 #### My projects from 42SP - to view the codes, just click on the image ;)
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_one_b.png?raw=true" />]
+<p align="center"><img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_one_b.png?raw=true" /></p>
 
 [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/libft_m.png?raw=true" />](https://github.com/ferfahl/42SP_libft) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/gnl_b.png?raw=true" />](https://github.com/ferfahl/42SP_get_next_line) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/ft_printf_m.png?raw=true" />](https://github.com/ferfahl/42SP_ft_printf) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/born2beroot_b.png?raw=true" />](https://github.com/ferfahl/42SP_Born2beRoot) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/so_long_b.png?raw=true" />](https://github.com/ferfahl/42SP_so_long) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/pipex_b.png?raw=true" />](git@github.com:ferfahl/42SP_pipex.git)
 
-[<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_two_not.png?raw=true" />]
+<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/phase_two_not.png?raw=true" />
 
 [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/push_swap_m.png?raw=true" />](https://github.com/ferfahl/42SP_push_swap.git) [<img height="128" width="128" src="https://github.com/ferfahl/ferfahl.github.io/blob/main/assets/Minishell_b.png?raw=true" />](https://github.com/ferfahl/42SP_Minishell.git)
 
